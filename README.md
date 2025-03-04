@@ -20,5 +20,5 @@ This program is Python-based to help employees track and update inventory. Custo
 - Navigate to the command terminal and RUN!
 -------------------------
 **FUTURE IMPROVEMENTS**
-- Allow for customers to create a wishlist basket❤
+- Allow for customers to create a wishlist basket
 - Employees can notify customers when item is back in stock
