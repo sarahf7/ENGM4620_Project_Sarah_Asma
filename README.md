@@ -1,10 +1,9 @@
 ﻿# ENGM4620_Project_Sarah_Asma
  
-**OVERVIEW**
-**hshs**********
+**OVERVIEW **
 Welcome to our That's So Cute Clothing Store!
 This program is Python-based to help employees track and update inventory. Customers can also view the latest items in stock!
--------------------------
+
 **EMPLOYEES PORTAL**
 - View Stock
 - Update Stock with new inventory
