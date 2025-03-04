@@ -1,6 +1,6 @@
 ﻿# ENGM4620_Project_Sarah_Asma
  
-Clothing Store Inventory Tracker 
+🛍️ **Clothing Store Inventory Tracker** 🛍️ 
 
 Welcome to our That's So Cute Clothing Store!
 This program is Python-based to help employees track and update inventory. Customers can also view the latest items in stock!
@@ -20,5 +20,5 @@ This program is Python-based to help employees track and update inventory. Custo
 - Navigate to the command terminal and RUN!
 -------------------------
 **FUTURE IMPROVEMENTS**
-- Allow for customers to create a wishlist basket
+- Allow for customers to create a wishlist basket❤
 - Employees can notify customers when item is back in stock
